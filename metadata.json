@@ -1,0 +1,5 @@
+{
+  "name": "Islamic Prayer Times",
+  "description": "An elegant and modern website displaying real-time Islamic prayer schedules for your city, fetched from a Prayer Times API. Features a clean, responsive design with a dark green and white color theme.",
+  "requestFramePermissions": []
+}
